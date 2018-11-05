@@ -1,0 +1,14 @@
+fieldset{
+  background-color: blue;
+  width: 50%;
+  height:400px; 
+}
+    body {
+      background-color: gray;
+    }
+    div{
+      background-color: #ff00ff;
+      padding: 5px;
+      border: 1px solid  black;
+      width: 70px;
+    }
